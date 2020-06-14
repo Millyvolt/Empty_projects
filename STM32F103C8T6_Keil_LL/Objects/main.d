@@ -1,0 +1,16 @@
+.\objects\main.o: User\Src\main.c
+.\objects\main.o: .\User\Inc\main.h
+.\objects\main.o: .\STM32F1xx_LL_Driver\Inc\stm32f1xx_ll_system.h
+.\objects\main.o: .\CMSIS\Inc\stm32f1xx.h
+.\objects\main.o: .\CMSIS\Inc\stm32f103xb.h
+.\objects\main.o: .\CMSIS\Inc\core_cm3.h
+.\objects\main.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\main.o: .\CMSIS\Inc\cmsis_version.h
+.\objects\main.o: .\CMSIS\Inc\cmsis_compiler.h
+.\objects\main.o: .\CMSIS\Inc\cmsis_armcc.h
+.\objects\main.o: .\CMSIS\Inc\system_stm32f1xx.h
+.\objects\main.o: .\STM32F1xx_LL_Driver\Inc\stm32f1xx_ll_rcc.h
+.\objects\main.o: .\STM32F1xx_LL_Driver\Inc\stm32f1xx_ll_utils.h
+.\objects\main.o: .\STM32F1xx_LL_Driver\Inc\stm32f1xx_ll_cortex.h
+.\objects\main.o: .\STM32F1xx_LL_Driver\Inc\stm32f1xx_ll_gpio.h
+.\objects\main.o: .\STM32F1xx_LL_Driver\Inc\stm32f1xx_ll_bus.h

@@ -1,0 +1,2 @@
+.\objects\stm32f1xx_hal_timebase_rtc_alarm_template.o: STM32F1xx_LL_Driver\Src\stm32f1xx_hal_timebase_rtc_alarm_template.c
+.\objects\stm32f1xx_hal_timebase_rtc_alarm_template.o: .\STM32F1xx_LL_Driver\Inc\stm32f1xx_hal.h
